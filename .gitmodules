@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "mapindiatools"]
+	path = mapindiatools
+	url = https://github.com/shubhamdutta26/mapindiatools
 [submodule "tidyplate"]
 	path = tidyplate
 	url = https://github.com/shubhamdutta26/tidyplate
